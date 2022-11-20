@@ -26,12 +26,7 @@
 <a href="https://www.instagram.com/ubirajara_santos_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:tecnologo.ubirajara.santos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>          
 <a href="https://www.linkedin.com/in/front-end-developer-ubirajara-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-![Snake animation](https://github.com/Ubirajara-Santos/Ubirajara-Santos/blob/output/github-contribution-grid-snake.svg)
-    
-   
-    
+  </div> 
     
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ubirajara-Santos&bg_color=090326&color=b4e3e9&line=fefff5&point=b80000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     

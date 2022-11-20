@@ -3,7 +3,7 @@
                     
                      
                                         
-### Seja bem vindo(a) a meu Github,sou Ubirajara Santos,vamos juntos nesse universo Front End !👨🏻‍🚀🚀💻
+### Seja bem vindo(a) a meu Github,sou Ubirajara Santos,vamos juntos nesse universo Front End!👨🏻‍🚀🚀💻
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubirajara-Santos&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubirajara-Santos&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -20,6 +20,7 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   
   <h1 align="center">Redes Sociais</h1>
+  
   <div align="center"> 
 <a href="https://www.instagram.com/ubirajara_santos_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:tecnologo.ubirajara.santos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>          

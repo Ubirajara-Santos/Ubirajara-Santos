@@ -5,8 +5,6 @@
                                         
 ### Seja bem vindo(a) a meu Github,sou Ubirajara Santos,vamos juntos nesse universo Front End !👨🏻‍🚀🚀💻
 <div>
-
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubirajara-Santos&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubirajara-Santos&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
